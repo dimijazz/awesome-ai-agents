@@ -36,6 +36,7 @@ A curated list of AI agent frameworks, tools, platforms, and resources for build
 | [Vertex AI Agent Builder](https://cloud.google.com/vertex-ai) | Cloud | Enterprise agent deployment on GCP |
 | [Amazon Bedrock Agents](https://aws.amazon.com/bedrock/agents/) | Cloud | Enterprise agents on AWS |
 | [Relevance AI](https://relevanceai.com/) | No-code | Build and deploy AI agents without coding |
+| [Tale](https://tale.dev/) | Platform | Shared workspace for assigning tasks to reusable AI agents, running coding harnesses in sandboxes, and reviewing deliverables |
 
 ## Multi-Agent Systems
 
