@@ -70,6 +70,7 @@ A curated list of AI agent frameworks, tools, platforms, and resources for build
 
 | Name | Description |
 |------|-------------|
+| [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) | Local payment runtime and stdio MCP tools for x402 offers, bounded payment preparation, status and receipts; Apple Silicon macOS and Node 24 only. |
 | [Composio](https://github.com/ComposioHQ/composio) | 250+ tool integrations for AI agents |
 | [Zapier AI Actions](https://zapier.com/ai) | Connect AI to 6,000+ apps |
 | [Make.com](https://make.com/) | Visual automation platform |
